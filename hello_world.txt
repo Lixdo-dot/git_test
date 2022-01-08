@@ -1,0 +1,3 @@
+Hello World!
+This is my goal for 2022!
+Finish The Odin Project!
